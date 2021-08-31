@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MilindJamkhandi
+- 👋 Hi, I’m MilindJamkhandi
 - 👀 I’m interested in Developing exciting projects such as native mobile applications and websites using react-native
 - 🌱 I’m currently learning full stack development. Building scalable applications and deploy and cloud platforms
 - 💞️ I’m looking to collaborate on open source projects
